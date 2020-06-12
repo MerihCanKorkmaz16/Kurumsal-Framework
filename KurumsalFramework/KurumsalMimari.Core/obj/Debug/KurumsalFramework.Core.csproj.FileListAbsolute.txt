@@ -1,0 +1,78 @@
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.dll.config
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.pdb
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\FluentValidation.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\log4net.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\NHibernate.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\PostSharp.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\FluentValidation.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\log4net.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\NHibernate.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\PostSharp.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.pssym
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalFramework.Core.csproj.CopyComplete
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalMimari.Core.dll.postsharp
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalMimari.Core.dll
+C:\Users\ass\source\repos\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalMimari.Core.pdb
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.dll.config
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.pdb
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\FluentValidation.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Iesi.Collections.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\log4net.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\NHibernate.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Ninject.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\PostSharp.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.Helpers.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.Mvc.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.Razor.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.WebPages.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Antlr3.Runtime.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\FluentValidation.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Iesi.Collections.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\log4net.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\NHibernate.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Ninject.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\PostSharp.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.Helpers.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.Mvc.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.Razor.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.WebPages.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\bin\Debug\KurumsalMimari.Core.pssym
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalFramework.Core.csprojAssemblyReference.cache
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalFramework.Core.csproj.CopyComplete
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalMimari.Core.dll.postsharp
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalMimari.Core.dll
+C:\Users\ass\Desktop\Professional projelerim\KurumsalFramework\KurumsalMimari.Core\obj\Debug\KurumsalMimari.Core.pdb
